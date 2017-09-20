@@ -2,7 +2,7 @@
 
 ## Challenge: CVV 100 points
 
-cvv.py
+[cvv.py](./cvv.py)
 
 Overview: connecting to misc.chal.csaw.io on port 8308 begins as series of "asks"; for example:
 
